@@ -5,7 +5,7 @@ that shows how to integrate the New Relic SDK for iOS and trace native
 Swift methods.
 
 This code is discussed in detail on the New Relic blog:
-    [TBD]
+    http://blog.newrelic.com/2014/06/12/instrumenting-swift-app/
 
 ## Getting started
 
